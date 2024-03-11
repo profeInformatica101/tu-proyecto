@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hola desde index.jsp!</h1>
-    <a href="MiServlet">Ir a MiServlet</a>
+    <a href="miServlet">Ir a MiServlet</a>
 </body>
 </html>
