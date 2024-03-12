@@ -1,7 +1,8 @@
-package com.miproyecto.servicios;
+package com.miproyecto.services;
 
 public class CalculadoraImpl implements Calculadora{
 
+	
 	@Override
 	public double sumar(double a, double b) {
 		return  a + b;

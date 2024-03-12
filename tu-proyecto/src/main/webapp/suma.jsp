@@ -1,5 +1,5 @@
-<%@page import="com.miproyecto.servicios.Calculadora"%>
-<%@page import="com.miproyecto.servicios.CalculadoraImpl"%>
+<%@page import="com.miproyecto.services.Calculadora"%>
+<%@page import="com.miproyecto.services.CalculadoraImpl"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

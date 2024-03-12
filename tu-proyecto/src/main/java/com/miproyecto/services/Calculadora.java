@@ -1,4 +1,4 @@
-package com.miproyecto.servicios;
+package com.miproyecto.services;
 /**
  * Interfaz Calculadora para definir operaciones matemáticas básicas.
  * Esta interfaz debería ser implementada por cualquier clase que ofrezca
