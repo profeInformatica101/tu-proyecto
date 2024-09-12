@@ -8,13 +8,15 @@ Este proyecto contiene la implementación de varios problemas utilizando Servlet
 ```bash
 git clone https://github.com/profeInformatica101/tu-proyecto.git
 cd tu-proyecto
+```
 
 ### 2. Compilar el proyecto con Maven:
 ```bash
 git clone https://github.com/profeInformatica101/tu-proyecto.git
 mvn clean install
-
+```
 
 ### 3.  Ejecutar el proyecto en Tomcat:
 ```bash
 mvn tomcat7:run
+```
