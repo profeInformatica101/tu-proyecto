@@ -12,7 +12,6 @@ cd tu-proyecto
 
 ### 2. Compilar el proyecto con Maven:
 ```bash
-git clone https://github.com/profeInformatica101/tu-proyecto.git
 mvn clean install
 ```
 
