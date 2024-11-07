@@ -28,7 +28,11 @@
     <version>3.0.0</version>
     <scope>provided</scope>
 </dependency>
-
+<dependency>
+    <groupId>org.apache.tomcat.maven</groupId>
+    <artifactId>tomcat7-maven-plugin</artifactId>
+    <version>LATEST</version>  <scope>provided</scope>
+</dependency>
   </dependencies>
   <build>
     <finalName>tu-proyecto</finalName>
